@@ -140,6 +140,9 @@ article h2 {
   margin-bottom: 20px;
 }
 
+a, a.visited {
+  color: var(--texto);}
+
 #skill-container{
   display: grid;
   grid-template-columns: 1fr;
